@@ -1,2 +1,2 @@
-# Dribbble-Dashboards
-<h6>Place to practice and upload my dribbble dashboards.</h6>
+# DOM Manipulation
+<h6>DOM manipulation Projects</h6>
